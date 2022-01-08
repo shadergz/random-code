@@ -8,6 +8,7 @@
 
 int main (int argc, char **argv)
 {
+	int x = 10;
 	/*	3 < sqrt (10) < 3.20
 	 *	sqrt (10) = x*x
 	 *	x^2 = 10
