@@ -2,7 +2,7 @@
 
 A ramdom code collection used for SFW purposes
 
-## Codes that used aproximation methods
+## Codes that uses aproximation methods
 
 ### Square root with Newton method
 
